@@ -1,6 +1,3 @@
-Laravel provides powerful **Eloquent ORM (Object-Relational Mapping)** relationships to manage database associations. Here’s a complete guide to Laravel **model relationships** with their **parameters** and options.
-
----
 
 ## **1. One-to-One (`hasOne` and `belongsTo`)**
 
@@ -301,11 +298,7 @@ class Video extends Model
 
 ## **Conclusion**
 
-Laravel provides powerful **relationships** to manage your data efficiently:
-
 - **One-to-One** (`hasOne`, `belongsTo`)
 - **One-to-Many** (`hasMany`, `belongsTo`)
 - **Many-to-Many** (`belongsToMany`)
 - **Polymorphic Relationships** (`morphOne`, `morphMany`, `morphToMany`)
-
-Want help with a specific case? 😊

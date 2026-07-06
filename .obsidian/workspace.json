@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "23787f9b54b40702",
+        "id": "cd7587a74d797d1f",
         "type": "tabs",
         "children": [
           {
-            "id": "1f625a3b8c67093f",
+            "id": "65e4a74df5eff19d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Function/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "03ffd0420f61ea4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Server/Nginx Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nginx Setup"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/Array.md",
+                "file": "Laravel/Server/Nginx Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Array"
+              "title": "Backlinks for Nginx Setup"
             }
           },
           {
@@ -128,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Laravel/Laravel Nginx & Apache.md",
+                "file": "Laravel/Server/Nginx Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Laravel Nginx & Apache"
+              "title": "Outgoing links from Nginx Setup"
             }
           },
           {
@@ -143,7 +124,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -155,10 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Laravel/Laravel Nginx & Apache.md"
+                "file": "Laravel/Server/Nginx Setup.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Laravel Nginx & Apache"
+              "title": "Outline of Nginx Setup"
             }
           }
         ]
@@ -170,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,43 +165,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "723131ce16dfbb32",
+  "active": "65e4a74df5eff19d",
   "lastOpenFiles": [
-    "Go",
-    "Ruby",
-    "Java",
-    "Python",
-    "Laravel/Function/Models Relationship.md",
-    "Laravel/Function/Routes.md",
-    "Laravel/Function/Request.md",
-    "Laravel/Function/Model Method.md",
-    "Javascript/Bootstrap Model.md",
-    "Laravel/Server/Nginx Setup.md",
-    "Laravel/Server/Server.md",
-    "Laravel/Server/GitHub.md",
-    "Javascript/Array methods.md",
-    "Javascript/Table Handle.md",
-    "Javascript/String.md",
-    "Javascript/jQuery Selectors.md",
-    "Javascript/JavaScript Index.md",
-    "Javascript/Ajax.md",
-    "Plugins/Sweet Alert.md",
-    "Untitled.md",
-    "Plugins/Plugins Index.md",
-    "Plugins/DataTable.md",
-    "Laravel/Function/Try-Catch.md",
-    "Laravel/Function/index.md",
+    "Library/Library Index.md",
     "Laravel/Laravel Index.md",
-    "PHP/Array.md",
-    "PHP/Numeric Handling.md",
+    "index.md",
+    "UI Framework/UI Framework Index.md",
+    "UI Framework/Boostrap/Bootstrap UI Index.md",
+    "UI Framework/Boostrap/Bootstrap Model.md",
+    "Linux/Linux Index.md",
+    "Linux/Run Command as another User In Terminal.md",
+    "PHP/PHP Index.md",
     "PHP/String Handling.md",
-    "PHP",
-    "Plugins/Select2.md",
-    "Javascript/Boostrap",
-    "Laravel/LiveWire",
-    "Laravel/Server",
-    "Laravel/Function",
-    "Laravel/Function",
-    "Laravel/Model"
+    "PHP/Numeric Handling.md",
+    "PHP/Array.md",
+    "Library/Yajra DataTable/DataTable.md",
+    "Library/Sweet Alert/Sweet Alert.md",
+    "Library/Select2/Select2 Index.md",
+    "Library/Select2/Select2 Event.md",
+    "Library/jQuery/jQuery Index.md",
+    "Library/jQuery/jQuery Selectors.md",
+    "Laravel/Model Query.md",
+    "Laravel/Try-Catch.md",
+    "Laravel/Routes.md",
+    "Laravel/Models Relationship.md",
+    "Laravel/Model Method.md",
+    "Laravel/Function/index.md",
+    "JavaScript/JavaScript Index.md",
+    "JavaScript/Table Handle.md",
+    "Library/Yajra DataTable",
+    "Library/Sweet Alert",
+    "Library/Select2",
+    "GitHub",
+    "Linux",
+    "Library/jQuery",
+    "Javascript/Library",
+    "UI Framework/Boostrap",
+    "UI Framework",
+    "Go"
   ]
 }

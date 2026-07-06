@@ -1,3 +1,13 @@
-1. [[Server]]
-2. [[Laravel/Function/index]]
-3. [[Livewire]]
+1. [[Model Query]]
+2. [[Try-Catch]]
+3. [[Routes]]
+4. [[Models Relationship]]
+5. [[Model Method]]
+6. [[Livewire]]
+
+
+
+
+## Laravel Plugins
+
+1. [[DataTable]]

@@ -1,4 +1,3 @@
-# jQuery Select2 Event Listeners
 
 ## General Events
 | Event Name         | Description                                                        |

@@ -1,9 +1,4 @@
 
-
-මෙන්න Laravel හි Route සැකසිය හැකි සියලුම ක්‍රම `.md` (Markdown) format එකෙන් Obsidian වෙත එක් කිරීමට සුදුසු පරිදි ලියූ ලේඛනයක්:
-
----
-
 ````markdown
 # Laravel Route Methods Cheat Sheet
 
@@ -222,16 +217,4 @@ Usage:
 
 ```php
 Route::adminRoutes();
-```
-
----
-
-✅ **Tip:** Use `php artisan route:list` to view all defined routes.
-
-```
-
----
-
-Obsidian තුළ paste කිරීමෙන් පසු ඔබට syntax highlighting සහ proper sectioning ලැබෙනු ඇත. අවශ්‍ය නම්, මෙයට tag එකක් `#Laravel` යොදන්න.  
-තවත් Laravel cheatsheets අවශ්‍යද?
 ```

@@ -1,6 +1,3 @@
-In Laravel and PHP, you can use `try-catch` blocks to handle exceptions, and you can also create custom exceptions to make error handling more meaningful. Here’s how you can do it:
-
----
 
 ### **1. Basic Try-Catch in Laravel (PHP)**
 
@@ -105,15 +102,3 @@ public function render($request, Throwable $exception)
     return parent::render($request, $exception);
 }
 ```
-
-Now, any thrown `MyCustomException` will be handled automatically.
-
----
-
-### **Conclusion**
-
-- Use `try-catch` for basic error handling.
-- Create custom exceptions for more readable and structured error handling.
-- Register custom exceptions in `Handler.php` to avoid repetitive try-catch blocks.
-
-Let me know if you need further clarification! 🚀

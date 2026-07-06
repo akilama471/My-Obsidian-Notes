@@ -92,9 +92,3 @@ Sure! Here's a **complete and categorized list** of **JavaScript Array methods**
 For binary or performance-critical work: `Uint8Array`, `Float32Array`, etc. (These are not regular arrays but behave similarly.)
 
 ---
-
-### 🔁 Want a printable version or Obsidian-friendly markdown table?
-
-Let me know — I’ll format it perfectly for your use case.
-
-Would you like **real-world examples** of commonly used methods too?

@@ -1,6 +1,3 @@
-Here’s a comprehensive list of **Laravel Eloquent Model methods** (including query builder methods used via Eloquent) with **examples** that you can add to your Obsidian documentation.
-
----
 
 ## 📄 Laravel Eloquent Model & Query Methods
 
@@ -276,7 +273,3 @@ Convert models to arrays or JSON.
 $userArray = $user->toArray();
 $userJson = $user->toJson();
 ```
-
----
-
-Would you like this exported to a `.md` file for Obsidian or need it grouped by CRUD, Relationship, Query Scopes, etc.?
