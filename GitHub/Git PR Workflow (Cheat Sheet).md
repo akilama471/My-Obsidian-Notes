@@ -7,7 +7,8 @@ git checkout -b feature/login
 ### 2. Commit changes
 
 ```
-git add .git commit -m "Add login feature"
+git add .
+git commit -m "Add login feature"
 ```
 
 ### 3. Push branch
