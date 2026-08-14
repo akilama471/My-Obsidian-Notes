@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/Git Remote Commands (Cheat Sheet).md",
+                "file": "GitHub/Git Commit Change Date (Cheat Sheet).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Remote Commands (Cheat Sheet)"
+              "title": "Git Commit Change Date (Cheat Sheet)"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -171,6 +173,7 @@
   },
   "active": "65e4a74df5eff19d",
   "lastOpenFiles": [
+    "GitHub/Git Remote Commands (Cheat Sheet).md",
     "GitHub/Git Commit Change Date (Cheat Sheet).md",
     "GitHub/Git PR Workflow (Cheat Sheet).md",
     "Library/Library Index.md",
@@ -196,7 +199,6 @@
     "Laravel/Routes.md",
     "Laravel/Models Relationship.md",
     "Laravel/Model Method.md",
-    "Laravel/Function/index.md",
     "Library/Yajra DataTable",
     "Library/Sweet Alert",
     "Library/Select2",
